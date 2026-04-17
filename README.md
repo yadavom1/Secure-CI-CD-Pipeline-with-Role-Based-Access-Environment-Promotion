@@ -131,17 +131,25 @@ pipeline {
 
 # 📈 Key Benefits
 
--Improved security 🔐
--Better release control 🚦
--Reduced deployment risks ⚠️
--Enterprise-level pipeline design 🏢
+- Improved security 🔐
+- Better release control 🚦
+- Reduced deployment risks ⚠️
+- Enterprise-level pipeline design 🏢
 
+# 📸 Important screenshots
 
+1️⃣"All Instance"
+ <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a15cbaf9-a789-4e2a-bf30-2ababe57e83f" />
 
+2️⃣"Jenkinsfile"
+2️<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cddc6af7-fdf2-4ce6-aaa7-ec99ee872962" />
 
+3️⃣"Working CI/CD pipeline"
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/35881ea2-7a91-4880-adba-643a579794c3" />
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/43cbcf06-e103-4d7d-9730-3e94305ae13d" />
 
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/24c12eeb-6b48-46d5-a4d9-b2d792cc22ca" />
 
 
 
