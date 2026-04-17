@@ -23,8 +23,6 @@ Code Commit → Build → Unit Test → Dev → Staging → Approval → Product
 └── README.md
 ```
 
----
-
 # ⚙️ Technologies Used
 
 - Jenkins – CI/CD pipeline automation
@@ -33,10 +31,8 @@ Code Commit → Build → Unit Test → Dev → Staging → Approval → Product
 - Amazon EC2 – Hosting environments
 - AWS IAM – Access control
 
----
 # 🚀 Jenkins Pipeline Stages
 
-```
 1️⃣ Build
 Compile application code
 Prepare artifacts
