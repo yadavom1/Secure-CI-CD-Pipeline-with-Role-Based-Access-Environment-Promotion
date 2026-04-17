@@ -2,13 +2,10 @@
 
 This project demonstrates how to build a secure CI/CD pipeline using Jenkins, GitHub, and Amazon Web Services (EC2 &amp; IAM).
 
----
 # 🌟 1. Architecture Overview  
 
-```
 Code Commit → Build → Unit Test → Dev → Staging → Approval → Production
 
----
 # 🌍 Environment Setup
 
 - Dev Environment (EC2 Instance)
