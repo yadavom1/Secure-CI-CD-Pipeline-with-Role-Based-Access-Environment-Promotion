@@ -11,9 +11,9 @@ Code Commit → Build → Unit Test → Dev → Staging → Approval → Product
 ---
 # 🌍 Environment Setup
 
-- **Dev Environment (EC2 Instance)
-- **Staging Environment (EC2 Instance)
-- **Production Environment (EC2 Instance)
+- Dev Environment (EC2 Instance)
+- Staging Environment (EC2 Instance)
+- Production Environment (EC2 Instance)
 
 # 🗂 2. Project Structure  
 
@@ -30,11 +30,11 @@ Code Commit → Build → Unit Test → Dev → Staging → Approval → Product
 
 # ⚙️ Technologies Used
 
-- **Jenkins – CI/CD pipeline automation
-- **GitHub – Source code repository
-- **Amazon Web Services – Infrastructure
-- **Amazon EC2 – Hosting environments
-- **AWS IAM – Access control
+- Jenkins – CI/CD pipeline automation
+- GitHub – Source code repository
+- Amazon Web Services – Infrastructure
+- Amazon EC2 – Hosting environments
+- AWS IAM – Access control
 
 ---
 # 🚀 Jenkins Pipeline Stages
